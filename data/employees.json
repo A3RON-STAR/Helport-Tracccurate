@@ -1,0 +1,10 @@
+{
+    "202500260": {
+        "name": "Employee One",
+        "position": "Customer Service Representative",
+        "department": "Customer Service",
+        "vl_balance": 5,
+        "sl_balance": 7,
+        "schedule": "Mon-Fri 09:00-18:00"
+    }
+}
